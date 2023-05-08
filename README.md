@@ -13,6 +13,6 @@ My ultimate goal is to develop technology that can make a positive impact on peo
 
 
 ### 🤝🏻 Connect with Me!
-[![Email: daffahanaris@gmail.com](https://img.shields.io/badge/-muhammadrazin14@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:daffahanaris@gmail.com)
+[![Email: daffahanaris@gmail.com](https://img.shields.io/badge/-daffahanaris@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:daffahanaris@gmail.com)
 [![LinkedIn: Daffa Ariftama Hanaris(https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daffa-ariftama-hanaris/)]([https://www.linkedin.com/in/farkhanmaul/](https://www.linkedin.com/in/daffa-ariftama-hanaris/))&nbsp;
 [![Instagram: Follow daffa_hanariz_](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/daffa_hanariz/)&nbsp;
