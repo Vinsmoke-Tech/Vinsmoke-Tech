@@ -8,10 +8,11 @@ My ultimate goal is to develop technology that can make a positive impact on peo
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-- **Laravel** ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-- **CodeIgniter** ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat)
-- **React.js** ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat)
-- **Flutter** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg)
+![CodeIgniter](https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg)
+![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)
+
 
 
 
