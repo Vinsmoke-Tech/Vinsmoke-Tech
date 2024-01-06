@@ -12,6 +12,7 @@ My ultimate goal is to develop technology that can make a positive impact on peo
 ![CodeIgniter](https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
 ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)
+[![Email: daffahanaris@gmail.com](https://img.shields.io/badge/-daffahanaris@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:daffahanaris@gmail.com)
 
 
 
