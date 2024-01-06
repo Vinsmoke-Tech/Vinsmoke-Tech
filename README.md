@@ -10,7 +10,7 @@ My ultimate goal is to develop technology that can make a positive impact on peo
 <p align="left"> 
 [![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg)]
 ![CodeIgniter](https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg)
-![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
 ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)
 
 
