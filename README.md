@@ -5,7 +5,7 @@
 I'm a passionate developer who loves working with various technologies and frameworks. Here are some of the languages and tools I often work with:
 
 <!-- Languages -->
-## Languages
+## Skills
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 - ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat)
 - ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
