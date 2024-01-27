@@ -6,10 +6,11 @@ I'm a passionate developer who loves working with various technologies and frame
 
 <!-- Languages -->
 ## Skills
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-- ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat)
-- ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+* [![Flutter][Flutter.com]][Flutter-url]
+* [![React][React.js]][React-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 <!-- About Me / Additional Information -->
 ### 🤝🏻 Connect with Me!
