@@ -21,7 +21,7 @@ I'm a passionate developer who loves working with various technologies and frame
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinsmoke-Tech&hide=html,css,hack&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 <!-- Footer -->
