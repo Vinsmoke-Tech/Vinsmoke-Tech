@@ -59,6 +59,11 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 #### Cloud, Serverless, CI/CD, DevOps, etc.
 [![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,githubactions,github,)](https://skillicons.dev)
 
+### <b>VISTOR COUNT 
+  <h4 align="center">
+
+  <img src="https://profile-counter.glitch.me/Xnuvers007/count.svg" />
+
 ### 📊 My Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&show_icons=true&theme=dark" alt="Xnuvers007 GitHub stats" />
