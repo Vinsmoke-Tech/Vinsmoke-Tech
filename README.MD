@@ -65,5 +65,5 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinsmoke-Tech&layout=compact&theme=tokyonight" alt="Top Languages" />
+  [![superXdev Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Vinsmoke-Tech&theme=ayu-mirage&layout=compact)](https://github.com/Vinsmoke-Tech/github-readme-stats)
 </p>
