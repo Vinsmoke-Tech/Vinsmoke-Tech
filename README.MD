@@ -4,6 +4,10 @@
 <a href="https://user-badge.committers.top/indonesia/Vinsmoke-Tech"><img src="https://user-badge.committers.top/indonesia/Vinsmoke-Tech.svg" alt="committers.top badge"></a>
 </div>
 
+<div align="center">
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue)
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -12,7 +16,6 @@
 - 🗣️ People called me `Daffa` / `Hanaris`
 - 🏡 I live in `Sukoharjo, Central Java, Indonesia`
 - 🏫 `Software Engineering` || `Mobile Developer`
-- ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
