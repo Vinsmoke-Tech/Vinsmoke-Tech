@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ilhamjaya08&label=PROFILE+VIEWS"/>
-<a href="https://github.com/ilhamjaya08"><img src="https://img.shields.io/github/followers/ilhamjaya08?label=followers&style=social"/></a>
+<img src="https://komarev.com/ghpvc/?username=Vinsmoke-Tech&label=PROFILE+VIEWS"/>
+<a href="https://github.com/Vinsmoke-Tech"><img src="https://img.shields.io/github/followers/Vinsmoke-Tech?label=followers&style=social"/></a>
 <a href="https://user-badge.committers.top/indonesia/ilhamjaya08"><img src="https://user-badge.committers.top/indonesia/ilhamjaya08.svg" alt="committers.top badge"></a>
 </div>
 
@@ -11,11 +11,11 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### All About Me 👤
-- 🤵 My name is `Muhammad Ilham Jaya`
-- 🗣️ People called me `Ilham` / `Jaya` / `ilhamjaya08`
-- 🏡 I live in `Karanganyar, Central Java, Indonesia`
-- 🏫 `Software Engineering` student
-- 🌐 My personal site is <a href="https://ilham.live">https://ilham.live</a>
+- 🤵 My name is `Daffa Ariftama Hanaris`
+- 🗣️ People called me `Daffa` / `Hanaris`
+- 🏡 I live in `Sukoharjo, Central Java, Indonesia`
+- 🏫 `Software Engineering` || `Mobile Developer`
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -31,13 +31,13 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
   - Google
 
 ### Contact
-[![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ilhamjaya08.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://linktr.ee/ilhamjaya08)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ilham.j_08)
+[![My Website](https://img.shields.io/badge/My%20Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://daffahanaris.blogspot.co.id)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://linktr.ee/?)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hanaris_daffa)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ilhamjaya1808@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@ilhamjaya08)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ilhamjaya08)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.daffahanaris@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@daffahanaris)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/)
 
 
 ### Skill Set (in icons)
