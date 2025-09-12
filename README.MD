@@ -65,5 +65,5 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 </p>
 
 <p align="center">
-  [![superXdev Wakatime](https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&theme=ayu-mirage&layout=compact)]
+  <img src="(https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&theme=ayu-mirage&layout=compact" alt="GitHub Stats" />
 </p>
