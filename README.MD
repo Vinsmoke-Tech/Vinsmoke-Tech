@@ -62,7 +62,7 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 ### <b>VISTOR COUNT 
   <h4 align="center">
 
-  <img src="https://profile-counter.glitch.me/Vinsmoke-Tech/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Vinsmoke-Tech&color=green" alt="Views on Github" />
 
 ### 📊 My Github Stats
 <p align="center">
