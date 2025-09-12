@@ -59,6 +59,7 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 #### Cloud, Serverless, CI/CD, DevOps, etc.
 [![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,githubactions,github,)](https://skillicons.dev)
 
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue)
 
 ### 📊 My Github Stats
 <p align="center">
