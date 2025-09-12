@@ -58,5 +58,12 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 
 #### Cloud, Serverless, CI/CD, DevOps, etc.
 [![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,githubactions,github,)](https://skillicons.dev)
-### 📊 My Github Stats
 
+### 📊 My Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinsmoke-Tech&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
