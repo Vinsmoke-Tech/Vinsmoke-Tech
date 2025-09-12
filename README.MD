@@ -59,16 +59,15 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 #### Cloud, Serverless, CI/CD, DevOps, etc.
 [![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,githubactions,github,)](https://skillicons.dev)
 
+
+### 📊 My Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&show_icons=true&theme=dark" alt="Xnuvers007 GitHub stats" /> &nbps;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinsmoke-Tech&layout=compact&theme=dark&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
+</p>
+
 ### <b>VISTOR COUNT 
   <h4 align="center">
 
   <img src="https://komarev.com/ghpvc/?username=Vinsmoke-Tech&color=green" alt="Views on Github" />
-
-### 📊 My Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&show_icons=true&theme=dark" alt="Xnuvers007 GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinsmoke-Tech&layout=compact&theme=dark&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
-</p>
-
-
 
