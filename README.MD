@@ -61,7 +61,7 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 
 ### 📊 My Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinsmoke-Tech&show_icons=true&theme=dark" alt="Xnuvers007 GitHub stats" />
 </p>
 
 <p align="center">
