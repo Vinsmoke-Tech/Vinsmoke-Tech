@@ -62,7 +62,7 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 ### <b>VISTOR COUNT 
   <h4 align="center">
 
-  <img src="https://profile-counter.glitch.me/Xnuvers007/count.svg" />
+  <img src="https://profile-counter.glitch.me/Vinsmoke-Tech/count.svg" />
 
 ### 📊 My Github Stats
 <p align="center">
