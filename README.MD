@@ -60,7 +60,3 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
 [![My Other Skills](https://skillicons.dev/icons?i=vercel,netlify,azure,githubactions,github,)](https://skillicons.dev)
 ### 📊 My Github Stats
 
-<p align="center"><img src="https://raw.githubusercontent.com/ilhamjaya08/ilhamjaya08/main/github-metrics.svg" alt="Metrics"></p>
-
-### 📝 My WakaTime breakdown stats weekly
-<p align="center"><img src="https://raw.githubusercontent.com/ilhamjaya08/ilhamjaya08/main/images/stat.svg" alt="Wakatime"></p>
