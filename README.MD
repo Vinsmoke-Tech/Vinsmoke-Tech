@@ -67,8 +67,3 @@ Student | Freelancer | Beginner Developer | Web3 Explorer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinsmoke-Tech&layout=compact&theme=dark&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
 </p>
 
-### <b>VISTOR COUNT 
-  <h4 align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Vinsmoke-Tech&color=green" alt="Views on Github" />
-
