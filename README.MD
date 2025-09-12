@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=Vinsmoke-Tech&label=PROFILE+VIEWS"/>
 <a href="https://github.com/Vinsmoke-Tech"><img src="https://img.shields.io/github/followers/Vinsmoke-Tech?label=followers&style=social"/></a>
 <a href="https://user-badge.committers.top/indonesia/Vinsmoke-Tech"><img src="https://user-badge.committers.top/indonesia/Vinsmoke-Tech.svg" alt="committers.top badge"></a>
-<a href=""> ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue) </a>
+<a href="http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue"> </a>
 
 </div>
 
