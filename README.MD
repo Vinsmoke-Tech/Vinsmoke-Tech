@@ -6,7 +6,7 @@
 
 </div>
 <!-- GitHub Profile Summary Cards (Dark Gray Theme) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyidazizii&theme=github_dark" width="700" alt="Summary"/> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinsmoke-Tech&theme=github_dark" width="700" alt="Summary"/> 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
