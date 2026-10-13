@@ -5,7 +5,8 @@
 <a href="http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue"><img src="http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2048%20mins-blue" alt="committers.top badge"> </a>
 
 </div>
-
+<!-- GitHub Profile Summary Cards (Dark Gray Theme) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyidazizii&theme=github_dark" width="700" alt="Summary"/> 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
